@@ -31,11 +31,12 @@ export function FooterContainer() {
                 
                 <Footer.Column>
                     <Footer.Link href="#">Media Centre</Footer.Link>
-                    <Footer.Link href="#">Buy Gift Cards</Footer.Link>
+                    <Footer.Link href="#">Buy Gift Card tomorrow</Footer.Link>
                     <Footer.Link href="#">Cookie Preferences</Footer.Link>
                     <Footer.Link href="#">Legal Notices</Footer.Link>
                 </Footer.Column>
             </Footer.Row>
+            <Footer.Break />
             <Footer.Text>Netflix United Kingdom</Footer.Text>
         </Footer>
     )
